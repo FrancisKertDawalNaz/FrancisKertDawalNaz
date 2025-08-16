@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Naz Francis Kert Dawal  <br><br>💻 Passionate about building web systems and mobile apps  <br>📚 Currently working on **LSPU SmartSched** & other projects  <br>⚡ Love learning Laravel, React, Java, and more  
+👋 Hi, I'm Naz Francis Kert Dawal  <br><br>
+💻 Passionate about building web systems and mobile apps  <br>
+📚 Currently working on **LSPU SmartSched** & other projects  <br>
+🎓 Studied in **LSPU Siniloan Campus**  <br>
+⚡ Love learning Laravel, React, Java, and more  
 
 
 ## 🌐 Socials:
